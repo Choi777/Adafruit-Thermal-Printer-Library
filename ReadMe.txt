@@ -1,3 +1,10 @@
+
+******
+EASY TUTORIAL FROM Adafruit
+http://learn.adafruit.com/mini-thermal-receipt-printer/overview
+******
+
+
 This is an Arduino library for the Adafruit Thermal Printer.
 Pick one up at --> http://www.adafruit.com/products/597
 These printers use TTL serial to communicate, 2 pins are required.
